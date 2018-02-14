@@ -34,3 +34,4 @@ zd deletes the fold at the cursor<br>
 zE deletes all folds<br>
 [z move to start of open fold<br>
 ]z move to end of open fold<br>
+You can also select multiple lines in Visual Line Mode (Shift+v) and fold them with zf<br>
